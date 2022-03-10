@@ -1,0 +1,2 @@
+# friends
+myblog friends' links
