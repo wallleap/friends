@@ -17,4 +17,14 @@ descr: 博客描述
 
 ## 示例
 
+点击本仓库的 [Issues](https://github.com/wallleap/friends/issues)，在该页面点击 `New issue` 按钮
 
+![](./.imgs/createIssue.jpg)
+
+在新的页面输入内容之后点击 `Submit new issue` 进行提交
+
+![](./.imgs/input.jpg)
+
+提交之后点击 `Close issue` 即可
+
+![](./.imgs/result.jpg)
