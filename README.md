@@ -12,7 +12,7 @@
 name: 博客名称
 url: 博客链接
 avatar: 您的头像链接
-descr: 博客描述
+desc: 博客描述
 ```
 
 ## 示例
