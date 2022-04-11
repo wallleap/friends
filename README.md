@@ -8,7 +8,7 @@
 
 可以在 Issues 页面创建 Issue 提交，格式为：
 
-```json
+```yml
 name: 博客名称
 url: 博客链接
 avatar: 您的头像链接
